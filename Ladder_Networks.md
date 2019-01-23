@@ -1,1 +1,1 @@
-<font size=8>Semi-Supervised Learning with Ladder Networks</font>
+<font size=20>Semi-Supervised Learning with Ladder Networks</font>
